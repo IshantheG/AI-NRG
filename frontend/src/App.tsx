@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import HomePage from './components/Homepage.tsx';
-import DataPage from './components/Datapage.tsx';
+
 
 
 function App() {
